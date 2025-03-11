@@ -30,7 +30,14 @@ Passionate Front-End Web Developer with 3 years of experience specializing in Re
 </p>
 
 ---
+### 🚀 Featured Projects
 
+#### 🔹 [ThunderCart Sample E-commerec Site with real time databse]([https://github.com/Harikrishnan/responsive-web-app](https://github.com/HariKrishnan2k18/User-Management))
+- Developed a fully functional e-commerce platform with secure authentication, productcatalog, cart, and order management.
+- Implemented Firebase Authentication for user login/signup and Firestore for real-timedatabase storage of products, users, and orders.
+- Built an Admin Dashboard for managing products, enabling CRUD operations for inventorycontrol.
+- Optimized app performance and maintained scalability by leveraging Firebase’s NoSQLdatabase.
+- Integrated Stripe for seamless and secure payment processing.
 ---
 
 ### 🧠 Strengths
