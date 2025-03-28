@@ -1,6 +1,8 @@
 # Hi there! 👋 I'm Yuvaraj T
 
-Passionate Front-End Web Developer with 3 years of experience specializing in React.js, TypeScript, Redux, Redux-Saga, and REST API integration. I focus on building high-performance, responsive web applications, optimizing user experience, and delivering scalable, maintainable solutions. 
+Hello! I'm a Front-End Web Developer with over 3 years of hands-on experience building dynamic and scalable web applications. I specialize in React.js, leveraging the power of TypeScript for type safety and maintainable code. My expertise extends to state management using Redux and Redux-Saga, enabling smooth asynchronous operations and complex app states.
+
+I am also proficient in integrating REST APIs to ensure seamless communication between the front-end and back-end. I am dedicated to writing clean, efficient, and scalable code while following best practices and keeping user experience at the forefront.
 
 ---
 
